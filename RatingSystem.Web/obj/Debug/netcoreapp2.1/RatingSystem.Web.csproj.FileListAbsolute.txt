@@ -1,0 +1,14 @@
+C:\Projects\RatingSystem\RatingSystem.Web\bin\Debug\netcoreapp2.1\RatingSystem.Web.deps.json
+C:\Projects\RatingSystem\RatingSystem.Web\bin\Debug\netcoreapp2.1\RatingSystem.Web.runtimeconfig.json
+C:\Projects\RatingSystem\RatingSystem.Web\bin\Debug\netcoreapp2.1\RatingSystem.Web.runtimeconfig.dev.json
+C:\Projects\RatingSystem\RatingSystem.Web\bin\Debug\netcoreapp2.1\RatingSystem.Web.dll
+C:\Projects\RatingSystem\RatingSystem.Web\bin\Debug\netcoreapp2.1\RatingSystem.Web.pdb
+C:\Projects\RatingSystem\RatingSystem.Web\obj\Debug\netcoreapp2.1\RatingSystem.Web.csprojAssemblyReference.cache
+C:\Projects\RatingSystem\RatingSystem.Web\obj\Debug\netcoreapp2.1\RatingSystem.Web.csproj.CoreCompileInputs.cache
+C:\Projects\RatingSystem\RatingSystem.Web\obj\Debug\netcoreapp2.1\RatingSystem.Web.RazorAssemblyInfo.cache
+C:\Projects\RatingSystem\RatingSystem.Web\obj\Debug\netcoreapp2.1\RatingSystem.Web.RazorAssemblyInfo.cs
+C:\Projects\RatingSystem\RatingSystem.Web\obj\Debug\netcoreapp2.1\RatingSystem.Web.AssemblyInfoInputs.cache
+C:\Projects\RatingSystem\RatingSystem.Web\obj\Debug\netcoreapp2.1\RatingSystem.Web.AssemblyInfo.cs
+C:\Projects\RatingSystem\RatingSystem.Web\obj\Debug\netcoreapp2.1\RatingSystem.Web.RazorTargetAssemblyInfo.cache
+C:\Projects\RatingSystem\RatingSystem.Web\obj\Debug\netcoreapp2.1\RatingSystem.Web.dll
+C:\Projects\RatingSystem\RatingSystem.Web\obj\Debug\netcoreapp2.1\RatingSystem.Web.pdb
