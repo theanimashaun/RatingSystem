@@ -1,4 +1,4 @@
-# RatingSystem
+# Rating System
 
 In order to calculate the top rated book in the collection of books (and respective ratings), we have to consider the amount of ratings submitted for each book, this is referred to as the weight.
 
